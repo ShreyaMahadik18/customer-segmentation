@@ -74,7 +74,7 @@ The model grouped customers into "5 clusters" that represent different spending/
 
 ## 🙋‍♀️ About Me
 
-Hi! I'm "Shreya", a Computer Science student passionate about learning Data Science.  
+Hi! I'm "Shreya", a Computer Science student passionate about learning Machine Learning.  
 This is my first real-world machine learning project — many more coming soon!
 
 ---
